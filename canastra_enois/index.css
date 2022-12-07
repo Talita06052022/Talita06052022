@@ -1,0 +1,73 @@
+#capa1{
+    background-color: rgb(245, 253, 10);
+    width: 100%;
+    height: 90%;
+    text-align: center;
+    padding: 1,5%;
+    background: url(WhatsApp\ Image\ 2022-12-06\ at\ 10.24.08.jpeg);
+    padding-top: 0%;
+    background-size: contain;
+}
+body{
+    margin: 1,8%;
+    content:  normal;
+    padding: 1,99%;
+    border: 100px;
+    font-size: larger;
+    font-weight: lighter;
+    text-decoration: double;
+    letter-spacing: 1px;
+    text-align: center;
+}
+h1{
+    padding-top: 15%;
+    font-size: 255%
+}
+#paragrafo11{
+    padding-top: 0%;
+    font-size: 150%
+}
+#icone1{
+    width: 5,2%;
+    height: 10%; 
+ 
+}
+
+#paragrafo2{
+    padding-top: 15%;
+    font-size: 100%
+}
+#paragrafo1{ padding-top: 15%;
+    font-size: 100%
+}
+#icone0{
+    width: 7%;
+    height: 12%; 
+   
+}
+#foto3{
+border: 3px solid #ffee05; 
+}
+#foto2{
+    border: 3px solid #ffee05; 
+}
+#foto1{
+    border: 3px solid #166408;
+}
+#foto4{
+    border: 3px solid #ffee05;
+}
+#foto5{border: 3px solid #ffee05;}
+#foto6{border: 3px solid #ffee05;}
+#foto7{border: 3px solid #ffee05;}
+
+#foto9{
+    border: 3px solid #ffee05;}
+
+    #icone2{
+        width: 19%;
+        height: 15%; 
+       
+    }
+    #foto10{
+        border: 3px solid #ffee05;}
